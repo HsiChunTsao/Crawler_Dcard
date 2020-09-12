@@ -1,4 +1,6 @@
 # Crawler_Dcard
 crawler_dcard
-It's a practice about beautifulsoup.
-This small program that can craw the images on Dcard.
+
+This is a practice about **beautifulsoup**.
+
+This small program can craw the images on Dcard.
